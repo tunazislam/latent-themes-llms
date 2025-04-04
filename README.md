@@ -1,5 +1,6 @@
 # latent-themes-LLMs
-Code and data for ICWSM 2025 paper "Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs".
+
+This repository contains code and data for the paper titled "[Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs](https://arxiv.org/abs/2403.10707)", [ICWSM 2025](https://www.icwsm.org/2025/index.html).
 
 ## Necessary Libraries
 The model is implemented in Python 3. 
@@ -69,6 +70,21 @@ For mapping ads->themes using LLMs mapper, run following codes:
 
 python ChatGPT_summary_text_match_climate.py
 python ChatGPT_summary_text_match_covid.py
+
+## Citation:
+
+If you find the paper useful in your work, please cite:
+
+```
+@article{islam2024discovering,
+  title={Discovering latent themes in social media messaging: A machine-in-the-loop approach integrating llms},
+  author={Islam, Tunazzina and Goldwasser, Dan},
+  journal={arXiv preprint arXiv:2403.10707},
+  year={2024}
+}
+
+```
+
 
 
 For Mapping Quality and Qualitative Analysis for COVID-19 (Figure 7, Figure 8, Figure 9, Table 4):
