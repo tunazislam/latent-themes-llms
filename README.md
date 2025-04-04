@@ -66,10 +66,14 @@ Do clustering on uncover ads. Then, after clustering and refining cluster For it
 python evaluate_cluster_theme_iter2_covid.py
 
 
-For mapping ads->themes using LLMs mapper, run following codes:
+For mapping ads->themes using LLMs mapper, run the following codes:
 
 python ChatGPT_summary_text_match_climate.py
 python ChatGPT_summary_text_match_covid.py
+
+For Mapping Quality and Qualitative Analysis for COVID-19 (Figure 7, Figure 8, Figure 9, Table 4):
+
+Run qualitative_analysis_mapping_covid.ipynb
 
 ## Citation:
 
@@ -85,9 +89,4 @@ If you find the paper useful in your work, please cite:
 
 ```
 
-
-
-For Mapping Quality and Qualitative Analysis for COVID-19 (Figure 7, Figure 8, Figure 9, Table 4):
-
-Run qualitative_analysis_mapping_covid.ipynb
 
