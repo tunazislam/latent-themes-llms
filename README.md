@@ -1,6 +1,6 @@
 # latent-themes-LLMs
 
-This repository contains code and data for the paper titled "[Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs](https://arxiv.org/abs/2403.10707)", [ICWSM 2025](https://www.icwsm.org/2025/index.html).
+This repository contains code and data for the paper titled "[Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs](https://ojs.aaai.org/index.php/ICWSM/article/view/35850)", [ICWSM 2025](https://www.icwsm.org/2025/index.html).
 
 ## Necessary Libraries
 The model is implemented in Python 3. 
