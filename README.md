@@ -80,11 +80,13 @@ Run qualitative_analysis_mapping_covid.ipynb
 If you find the paper useful in your work, please cite:
 
 ```
-@article{islam2024discovering,
+@inproceedings{islam2025discovering,
   title={Discovering latent themes in social media messaging: A machine-in-the-loop approach integrating llms},
   author={Islam, Tunazzina and Goldwasser, Dan},
-  journal={arXiv preprint arXiv:2403.10707},
-  year={2024}
+  booktitle={Proceedings of the International AAAI Conference on Web and Social Media},
+  volume={19},
+  pages={859--884},
+  year={2025}
 }
 
 ```
